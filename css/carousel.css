@@ -1,0 +1,7 @@
+ol.carousel>li {
+    list-style: none;
+}
+
+ol.carousel>li.hide {    
+    display: none;    
+}
